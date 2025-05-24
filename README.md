@@ -1,4 +1,8 @@
-## Hi there 👋
+## ¡Hola y bienvenidos!
+
+Mi nombra es Augusto Pino, un apasionado por las tecnologías y profesor en las areas de redes informáticas y ciberseguridad. En este espacio publico todos mis laboratorios, scritps, códigos y contenido relacionado con los conceptos de redes y ciberseguridad que abordo en mis clases. También tengo un blog https://augustopino.substack.com/ donde ademas voy publicando y compartiendo articulos relevantes y diversos contenidos del mundo tecnologico.
+
+"La mejor forma de poner en práctica lo aprendido, es enseñandolo"
 
 <!--
 **apino79/apino79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
