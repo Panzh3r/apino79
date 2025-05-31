@@ -1,6 +1,6 @@
 # ¡Hola y bienvenidos!
 
-Mi nombre es Augusto Pino, un apasionado por las tecnologías y profesor en las áreas de redes informáticas y ciberseguridad. En este espacio publico todos mis laboratorios, scritps, códigos y contenido relacionado con los conceptos de redes y ciberseguridad que abordo en mis clases. También tengo un blog https://augustopino.substack.com/ donde ademas voy publicando y compartiendo articulos relevantes y diversos contenidos del mundo tecnologico.
+Mi nombre es Augusto Pino, un apasionado por las tecnologías y profesor en las áreas de redes informáticas y ciberseguridad. En este espacio publico todos mis laboratorios, scritps, códigos y contenidos relacionado con los conceptos de redes y ciberseguridad que abordo en mis clases. También tengo un blog https://augustopino.substack.com/ donde ademas voy publicando y compartiendo articulos relevantes y diversos contenidos del mundo tecnologico.
 
 ### "La mejor forma de poner en práctica lo aprendido, es enseñandolo"
 
